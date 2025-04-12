@@ -10,12 +10,19 @@ https://www.kaggle.com/datasets/ninzaami/loan-predication
 Для комфортного чтения рекомендуется установить следующие библиотеки: 
 
 matplotlib
+
 numpy
+
 pandas
+
 seaborn
+
 sklearn
+
 warnings
+
 catboost
+
 shap
 
 Приятного чтения!
